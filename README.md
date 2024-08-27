@@ -12,28 +12,29 @@ Hello! I'm a data analyst with a strong foundation in Social Work and Media and 
 
 ## 🛠️ Skills and Technologies
 
-### Programming Languages and Tools
-- **Python**: Pandas, NumPy, Matplotlib, Plotly, Seaborn, SciPy, Scikit-learn, Statsmodels
-- **SQL** : MySQL, MyWorkbench
-- **MATLAB**
+### 🧰 Programming Languages and Tools
+  - **Python**: Pandas, NumPy, Matplotlib, Plotly, Seaborn, SciPy, Scikit-learn, Statsmodels
+  - **SQL** : MySQL, MyWorkbench
+  - **MATLAB**
 
-### Data Visualization
+### 📊 Data Visualization
 - **Tools** : Power BI, Tableau, Streamlit
 - **Programming**: Matplotlib, Plotly, Seaborn
 
-### Data Science / Machine Learning
+### 🔍 Data Science / Machine Learning
 - **Python Libraries**: Scikit-learn, Statsmodels (more to come!)
 
 ### Other Tools
 - **Excel**
 - **Web Scraping and APIs**
+- **Machine Learning**
 
-## 💬 Soft Skills
-- Analytical/Critical Thinking
-- Teamwork and Collaboration
-- Adaptability
-- Quick Learning
-- Easy to Work With
+## 🤝 Soft Skills
+- 🧩Problem-Solving
+- 🔍 Analytical/Critical Thinking
+- 👥 Teamwork and Collaboration
+- 🔄 Adaptability
+- 🚀 Quick Learner
 
 ## 🗣️ Languages Spoken
 - **English**: Native
@@ -43,7 +44,7 @@ Hello! I'm a data analyst with a strong foundation in Social Work and Media and 
 ## 📱💻 Projects
 Here are some of my projects that showcase my skills and what I've been working on:
 
-- **Aviation Investigations**:![https://github.com/dalreensoares/aviation-investigations]
+- **Aviation Investigations**:(https://github.com/dalreensoares/aviation-investigations)
 - **Vanguard A/B Testing**: ![https://github.com/dalreensoares/Vanguard-Data-Analysis/tree/main]
 
 Feel free to explore my repositories to see my work in action!
@@ -53,11 +54,3 @@ This landing page is built with:
 - **HTML5** 🏷️
 - **CSS3** 🎨
 - **JavaScript** 💻
-
-## ✨ Features
-
-- **Responsive Design**: Looks great on all devices 📱💻
-- **Interactive Elements**: Engaging animations and transitions ✨
-- **Dynamic Content**: Showcases my latest projects and blog posts 📝
-
-## 🚀 Getting Started
