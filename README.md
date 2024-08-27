@@ -3,7 +3,7 @@
 This is a place where you can learn more about me, my work, and my passions 🎉. It's designed to be a snapshot of who I am, showcasing my journey from a social worker to a data analyst with a love for plants, painting, and food. 🖌️🌱🍽️
 
 
-## 📊 About Me
+## 👤 About Me
 Hello! I'm a data analyst with a strong foundation in Social Work and Media and Communication. I am passionate about analyzing data to uncover insights and create compelling visualizations that tell a story.
 
 ## 🎓 Education
@@ -14,11 +14,11 @@ Hello! I'm a data analyst with a strong foundation in Social Work and Media and 
 
 ### Programming Languages and Tools
 - **Python**: Pandas, NumPy, Matplotlib, Plotly, Seaborn, SciPy, Scikit-learn, Statsmodels
-- **SQL**: MySQL, MyWorkbench
+- **SQL** : MySQL, MyWorkbench
 - **MATLAB**
 
 ### Data Visualization
-- **Tools**: Power BI, Tableau, Streamlit
+- **Tools** : Power BI, Tableau, Streamlit
 - **Programming**: Matplotlib, Plotly, Seaborn
 
 ### Data Science / Machine Learning
@@ -28,7 +28,7 @@ Hello! I'm a data analyst with a strong foundation in Social Work and Media and 
 - **Excel**
 - **Web Scraping and APIs**
 
-## 🧠 Soft Skills
+## 💬 Soft Skills
 - Analytical/Critical Thinking
 - Teamwork and Collaboration
 - Adaptability
