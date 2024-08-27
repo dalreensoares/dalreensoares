@@ -44,7 +44,7 @@ Hello! I'm a data analyst with a strong foundation in Social Work and Media and 
 ## 📱💻 Projects
 Here are some of my projects that showcase my skills and what I've been working on:
 
-- **Aviation Investigations**:(https://github.com/dalreensoares/aviation-investigations)
+- ![Aviation Investigations](#https://github.com/dalreensoares/aviation-investigations)
 - **Vanguard A/B Testing**: ![https://github.com/dalreensoares/Vanguard-Data-Analysis/tree/main]
 
 Feel free to explore my repositories to see my work in action!
