@@ -1,16 +1,63 @@
-## Hi there 👋
+## Hi there 👋 
 
-<!--
-**dalreensoares/dalreensoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a place where you can learn more about me, my work, and my passions 🎉. It's designed to be a snapshot of who I am, showcasing my journey from a social worker to a data analyst with a love for plants, painting, and food. 🖌️🌱🍽️
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 About Me
+Hello! I'm a data analyst with a strong foundation in Social Work and Media and Communication. I am passionate about analyzing data to uncover insights and create compelling visualizations that tell a story.
+
+## 🎓 Education
+- **Master's Degree** in Social Work
+- **Master's Degree** in Media and Communication
+
+## 🛠️ Skills and Technologies
+
+### Programming Languages and Tools
+- **Python**: Pandas, NumPy, Matplotlib, Plotly, Seaborn, SciPy, Scikit-learn, Statsmodels
+- **SQL**: MySQL, MyWorkbench
+- **MATLAB**
+
+### Data Visualization
+- **Tools**: Power BI, Tableau, Streamlit
+- **Programming**: Matplotlib, Plotly, Seaborn
+
+### Data Science / Machine Learning
+- **Python Libraries**: Scikit-learn, Statsmodels (more to come!)
+
+### Other Tools
+- **Excel**
+- **Web Scraping and APIs**
+
+## 🧠 Soft Skills
+- Analytical/Critical Thinking
+- Teamwork and Collaboration
+- Adaptability
+- Quick Learning
+- Easy to Work With
+
+## 🗣️ Languages Spoken
+- **English**: Native
+- **French**: Intermediate
+- **Icelandic**: Intermediate
+
+## 📱💻 Projects
+Here are some of my projects that showcase my skills and what I've been working on:
+
+- **Aviation Investigations**:![https://github.com/dalreensoares/aviation-investigations]
+- **Vanguard A/B Testing**: ![https://github.com/dalreensoares/Vanguard-Data-Analysis/tree/main]
+
+Feel free to explore my repositories to see my work in action!
+
+This landing page is built with:
+
+- **HTML5** 🏷️
+- **CSS3** 🎨
+- **JavaScript** 💻
+
+## ✨ Features
+
+- **Responsive Design**: Looks great on all devices 📱💻
+- **Interactive Elements**: Engaging animations and transitions ✨
+- **Dynamic Content**: Showcases my latest projects and blog posts 📝
+
+## 🚀 Getting Started
