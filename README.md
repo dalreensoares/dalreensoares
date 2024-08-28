@@ -44,12 +44,12 @@ Hello! I'm a data analyst with a strong foundation in Social Work and Media and 
 ## 📱💻 Projects
 Here are some of my projects that showcase my skills and what I've been working on:
 
-- [Aviation Investigations](#https://github.com/dalreensoares/aviation-investigations)
-- [H&M Article Price Prediction](#https://github.com/dalreensoares/hm-fashion-recomendations)
-- [Vanguard A/B Testing](#https://github.com/dalreensoares/Vanguard-Data-Analysis/tree/main)
-- [World Happiness SQL Analytics](#https://github.com/dalreensoares/World-Happiness-SQL-Project)
-- [Sky Track Data Analytics Services](#https://github.com/dalreensoares/Sky_Track_Project)
-- [Shark Attack Data Analysis](#https://github.com/dalreensoares/shark-attack-data-analysis)
+- [Aviation Investigations](https://github.com/dalreensoares/aviation-investigations)
+- [H&M Article Price Prediction](https://github.com/dalreensoares/hm-fashion-recomendations)
+- [Vanguard A/B Testing](https://github.com/dalreensoares/Vanguard-Data-Analysis/tree/main)
+- [World Happiness SQL Analytics](https://github.com/dalreensoares/World-Happiness-SQL-Project)
+- [Sky Track Data Analytics Services](https://github.com/dalreensoares/Sky_Track_Project)
+- [Shark Attack Data Analysis](https://github.com/dalreensoares/shark-attack-data-analysis)
 
 Feel free to explore my repositories to see my work in action!
 
